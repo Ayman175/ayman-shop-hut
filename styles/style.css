@@ -116,11 +116,15 @@ section {
     display: flex;
     height: 220px;
     border-radius: 8px;
-    padding: 80px 150px 30px 150px;
-    gap: 115px;
+    padding: 80px 150px 12px 150px;
+        gap: 50px;
     text-align: center;
 }
 
 .fresh-title {
+    color: rgba(39, 39, 39, 0.80);
+        font-family: Lato;
+        font-size: 20px;
+        font-weight: 550;
     margin-top: 24px;
 }
